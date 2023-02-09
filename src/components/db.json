@@ -1,0 +1,112 @@
+[
+  {
+    "id": "000000000000000045ee944b",
+    "name": "Grocery",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "000000000000000052b9fbab",
+    "name": "Mobiles",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "00000000000000001695fcef",
+    "name": "Fashion",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "00000000000000004f519dc4",
+    "name": "Electronics",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "00000000000000005ecdcdf7",
+    "name": "Home",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "000000000000000060fc31ac",
+    "name": "Appliances",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "000000000000000063457d49",
+    "name": "Travel",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "00000000000000002be2be74",
+    "name": "Top Offer",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "00000000000000005bff5fa1",
+    "name": "Beauty, Toys & More",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  },
+  {
+    "id": "000000000000000022b81367",
+    "name": "Two Wheelers",
+    "grade": 1,
+    "buisness_priority": 1,
+    "img": "string",
+    "addedBy": "uts",
+    "added_Date": "3/4/2021",
+    "update_By": "string",
+    "update_Date": "string"
+  }
+]

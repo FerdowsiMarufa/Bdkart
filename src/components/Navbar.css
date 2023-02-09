@@ -1,0 +1,18 @@
+* {
+  outline: none;
+  border: none;
+}
+.search {
+  width: 500px;
+}
+li {
+}
+.navbar {
+  padding-left: 150px;
+  height: 57px;
+}
+
+.navbar a {
+  color: #fff;
+  font: bold;
+}
